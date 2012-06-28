@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+/Users/Laura/github/local/AVF/.metadata/.plugins/org.eclipse.jdt.core
+3402319792.index
+2911154592.index
+2529498965.index
+1475111401.index

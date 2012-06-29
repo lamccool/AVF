@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	D3D8C7C5159C19790013D177 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = D3FC4DEE159D0BAF00CB5AE7 /* All I Want For X-Mas */;
+		activeTarget = D3D8C7D0159C19790013D177 /* All I Want For X-Mas */;
+		codeSenseManager = D3FC4E2C159D0BB400CB5AE7 /* Code sense */;
+		executables = (
+			D3FC4DEE159D0BAF00CB5AE7 /* All I Want For X-Mas */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 362613679;
+			PBXWorkspaceStateSaveDate = 362613679;
+		};
+		sourceControlManager = D3FC4E2B159D0BB400CB5AE7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	D3D8C7D0159C19790013D177 /* All I Want For X-Mas */ = {
+		activeExec = 0;
+		executables = (
+			D3FC4DEE159D0BAF00CB5AE7 /* All I Want For X-Mas */,
+		);
+	};
+	D3FC4DEE159D0BAF00CB5AE7 /* All I Want For X-Mas */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "All I Want For X-Mas";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	D3FC4E2B159D0BB400CB5AE7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D3FC4E2C159D0BB400CB5AE7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

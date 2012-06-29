@@ -1,5 +1,9 @@
 IMPORT_FILES_AND_FOLDERS_RELATIVE=true
+<<<<<<< HEAD
 IMPORT_FILES_AND_FOLDERS_TYPE=7,1\:23,1
+=======
+IMPORT_FILES_AND_FOLDERS_TYPE=23,1\:7,1
+>>>>>>> origin/gh-pages
 PROBLEMS_FILTERS_MIGRATE=true
 eclipse.preferences.version=1
 platformState=1340861688842

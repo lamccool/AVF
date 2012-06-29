@@ -1,29 +1,90 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<link rel="stylesheet" href="css/styles.css"/>
-		<meta charset="utf-8"/>
-		<meta name="description" content="All I Want For Christmas Is..."/>
-		<meta name="keywords" content="christmas, list, shopping"/>
-		<meta name="robots" content="index, follow"/>
-		<meta name="robots" content="noindex, nofollow"/>
-		<meta name="viewport" content="user-scalable=no, width=device-width"/>
-		<meta name="viewport" content="target-densitydpi=device-dpi"/>
-		<meta name="HandheldFriendly" content="True">
-		<meta name="MobileOptimized" content="320"/>	
-		<title>All I Want For Christmas Is...</title>
-    </head
+<html lang="en">
+    
+    <head>
+        <title>AVF Launch Page</title>
+        <meta type="charset" content="utf-8" />
+        <meta type="robots" content="index,follow" />
+        <meta type="description" content="Laura's Personal Media Library" />
+        <meta type="keywords" content="media library, laura mccool, avf" />
+        <!-- Mobile viewport optimized: j.mp/bplateviewport -->
+        <meta name="HandheldFriendly" content="True">
+        <meta name="MobileOptimized" content="320" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Mobile IE needs ClearType for smoothing fonts -->
+        <meta http-equiv="cleartype" content="on">
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.1.0/jquery.mobile-1.1.0.min.css"
+        />
+        <!-- JavaScript is normally at the end of the body, except for Modernizr
+        which enables HTML5 elements & feature detects -->
+        <script src="js/modernizr.custom.min.js"></script>
+        <!-- call custom style sheets last when using jqmobile -->
+        <link rel="stylesheet" href="styles.css" />
+    </head>
     <body>
-		<header>
-			<hgroup>
-				<h1>All I Want For Christmas Is...</h1>
-				<h2>The easy way to share and record your Christmas list.</h2>
-			</hgroup>
-		</header>
-		<p>The quick and easy way to store your Christmas list ideas on the go.</p>
-		<nav>
-			<a href="additem.html" title="Add item">Add item</a>
-		</nav>
-	</body>
+        <!-- Main Page Call -->
+        <div data-role="page" id="home" data-theme="a">
+            <div data-role="header" id="header" data-theme="a" data-position="center">
+                <center>
+                    <p>
+                        <img src="header.jpg" alt="">
+                </center>
+            </div>
+            <!-- Feature/CTA implementation -->
+            <div data-role="content" data-theme="a" align="center"></div>
+            <!-- List of links to other pages, done in a 'listview' to stack
+            them -->
+            <div>
+                <ul data-role="listview" class="menubuttons" data-theme="a">
+                    <li>
+                        <a href="http://lamccool.github.com/AVF/index.html" id="originalCRUDButton">Original CRUD app</a>
+                    </li>
+                    <li>
+                        <a href="#" id="revisedCRUDButton">Revised CRUD app</a>
+                    </li>
+                    <li>
+                        <a href="nativeFeatures.html" id="nativeFeaturesButton">iOS/Android Native Features</a>
+                        <ul data-role="listview" data-theme="a">
+                            <li>
+                                <a href="#">Contacts</a>
+                            </li>
+                            <li>
+                                <a href="#">Camera</a>
+                            </li>
+                            <li>
+                                <a href="#">Accelerometer</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="#" id="researchButton">Research
+				  <ul data-role="listview" data-theme="a">
+				    <li><a href="http://course.online.fullsail.edu/index.cfm?fuseaction=lms.activitiesDiscussion&activityId=779987&deliveryId=1563889">Week 1 Discussion: Industry Research and Project Intent</a>
+                    </li>
+                    <li>
+                        <a href="#">Week 2 Discussion Post</a>
+                    </li>
+                    <li>
+                        <a href="#">Week 3 Discussion Post</a>
+                    </li>
+                    <li>
+                        <a href="#">Week 4 Discussion Post</a>
+                    </li>
+                </ul>
+                </li>
+                </ul>
+            </div>
+        </div>
+        <!-- JavaScript under here -->
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"
+        type="text/javascript"></script>
+        <script src="http://code.jquery.com/mobile/1.0.1/jquery.mobile-1.0.1.min.js"
+        type="text/javascript"></script>
+        <script src="../../../GitHub/mdv-projects/ASD/ASD-Project/js/libs/jquery.validate.min.js"
+        type="text/javascript"></script>
+        <!-- <script src="js/JSON.js"></script> -->
+        <script src="js/main.js"
+        type="text/javascript"></script>
+        <script type="text/javascript"></script>
+    </body>
 
 </html>

@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <workbench progressCount="15" version="2.0">
 <workbenchAdvisor/>
 <window height="768" width="1024" x="144" y="96">
+=======
+<workbench progressCount="12" version="2.0">
+<workbenchAdvisor/>
+<window height="835" width="1274" x="141" y="83">
+>>>>>>> origin/gh-pages
 <fastViewData fastViewLocation="1024"/>
 <perspectiveBar>
 <itemSize x="160"/>
@@ -22,12 +28,22 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="152" y="22"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
+<<<<<<< HEAD
 <coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
 <page aggregateWorkingSetId="Aggregate for window 1340871212911" focus="true" label="Workspace - Java">
+=======
+<coolItem id="org.eclipse.ui.browser.editor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1340919034209" focus="true" label="Workspace - Java">
+>>>>>>> origin/gh-pages
 <editors>
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
@@ -35,10 +51,16 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
+<<<<<<< HEAD
+=======
+<part id="2"/>
+<part id="3"/>
+>>>>>>> origin/gh-pages
 </presentation>
 </folder>
 </info>
 </editorArea>
+<<<<<<< HEAD
 <editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmasA.java" partName="XmasA.java" path="/Users/Laura/github/local/AVF/XmasA/src/com/fullsail/testApp/XmasA.java" title="XmasA.java" tooltip="XmasA/src/com/fullsail/testApp/XmasA.java" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/XmasA/src/com/fullsail/testApp/XmasA.java"/>
 <editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="107" selectionTopPixel="0"/>
@@ -55,18 +77,52 @@
 <category IMemento.internal.id="Errors (2 items)"/>
 </expanded>
 <columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+=======
+<editor id="org.eclipse.ui.DefaultTextEditor" name="AndroidManifest.xml" partName="AndroidManifest.xml" path="/Users/Laura/github/local/AVF/X-Mas Android/AndroidManifest.xml" title="AndroidManifest.xml" tooltip="X-Mas Android/AndroidManifest.xml" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/X-Mas Android/AndroidManifest.xml"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="950" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="additem.html" partName="additem.html" path="/Users/Laura/github/local/AVF/X-Mas Android/assets/www/additem.html" title="additem.html" tooltip="X-Mas Android/assets/www/additem.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/X-Mas Android/assets/www/additem.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="254"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.ui.DefaultTextEditor" name="main.js" partName="main.js" path="/Users/Laura/github/local/AVF/X-Mas Android/assets/www/js/main.js" title="main.js" tooltip="X-Mas Android/assets/www/js/main.js" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/X-Mas Android/assets/www/js/main.js"/>
+<editorState selectionHorizontalPixel="0" selectionLength="3" selectionOffset="4314" selectionTopPixel="1620"/>
+</editor>
+</editors>
+<views>
+<view id="com.android.ide.eclipse.ddms.views.LogCatView" partName="LogCat">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>
+<category IMemento.internal.id="Warnings (1 item)"/>
+<category IMemento.internal.id="Errors"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="238" org.eclipse.ui.ide.severityAndDescriptionField="558"/>
+>>>>>>> origin/gh-pages
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+<<<<<<< HEAD
+=======
+<DESCENDING_FIELDS IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+>>>>>>> origin/gh-pages
 </viewState>
 </view>
 <view id="org.eclipse.ui.console.ConsoleView" partName="Console">
 <viewState/>
 </view>
 <view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<<<<<<< HEAD
 <viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="Aggregate for window 1340871212911">
+=======
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="Aggregate for window 1340919034209">
+>>>>>>> origin/gh-pages
 <customFilters userDefinedPatternsEnabled="false">
 <xmlDefinedFilters>
 <child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
@@ -100,7 +156,11 @@
 <view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
 <view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
 </views>
+<<<<<<< HEAD
 <perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+=======
+<perspectives activePart="org.eclipse.ui.DefaultTextEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+>>>>>>> origin/gh-pages
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
 <alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
@@ -160,12 +220,27 @@
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
 <view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<<<<<<< HEAD
 <view id="org.eclipse.ui.views.ProblemView"/>
 <view id="org.eclipse.jdt.ui.JavadocView"/>
 <view id="org.eclipse.jdt.ui.SourceView"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
 <view id="org.eclipse.ui.views.ContentOutline"/>
 <fastViewBars/>
+=======
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="1024" id="bottom" orientation="256" selectedTabId="com.android.ide.eclipse.ddms.views.LogCatView" style="0">
+<fastViews>
+<view id="org.eclipse.ui.views.ProblemView" ratio="0.3"/>
+<view id="org.eclipse.jdt.ui.JavadocView" ratio="0.3"/>
+<view id="org.eclipse.jdt.ui.SourceView" ratio="0.3"/>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.3"/>
+<view id="com.android.ide.eclipse.ddms.views.LogCatView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+>>>>>>> origin/gh-pages
 <layout>
 <mainWindow>
 <info folder="true" part="left">
@@ -180,7 +255,11 @@
 </presentation>
 </folder>
 </info>
+<<<<<<< HEAD
 <info folder="true" part="org.eclipse.ui.internal.ViewStack@3953c9c7" ratio="0.75" ratioLeft="762" ratioRight="254" relationship="2" relative="left">
+=======
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@29d22104" ratio="0.75" ratioLeft="762" ratioRight="254" relationship="2" relative="left">
+>>>>>>> origin/gh-pages
 <folder appearance="2" expanded="2">
 <page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
@@ -190,6 +269,7 @@
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="254" ratioRight="762" relationship="2" relative="left"/>
 <info folder="true" part="bottom" ratio="0.74963397" ratioLeft="512" ratioRight="171" relationship="4" relative="org.eclipse.ui.editorss">
+<<<<<<< HEAD
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
@@ -204,6 +284,18 @@
 <part id="2"/>
 <part id="3"/>
 </presentation>
+=======
+<folder appearance="2" expanded="0">
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<page content="com.android.ide.eclipse.ddms.views.LogCatView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+>>>>>>> origin/gh-pages
 </folder>
 </info>
 <info folder="true" part="right" ratio="0.7493438" ratioLeft="571" ratioRight="191" relationship="2" relative="org.eclipse.ui.editorss">
@@ -223,6 +315,7 @@
 <workingSets/>
 <navigationHistory>
 <editors>
+<<<<<<< HEAD
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/All I Want for X-Mas Android/gen/com/fullsail/testApp/BuildConfig.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/All I Want for X-Mas Android/src/com/fullsail/testApp/BuildConfig.java"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/All I Want for X-Mas Android/src/com/fullsail/testApp/Phonegap_testActivity.java"/>
@@ -276,6 +369,58 @@
 </item>
 <item active="true" historyLabel="AndroidManifest.xml" index="7">
 <position info="not_deleted" x="2335" y="0"/>
+=======
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/X-Mas Android/src/com/fullsail/testApp/x_xmas_android.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/X-Mas Android/AndroidManifest.xml"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/X-Mas Android/src/com/fullsail/testApp/X_mas_androidActivity.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/X-Mas Android/assets/www/additem.html"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/X-Mas Android/assets/www/js/main.js"/>
+</editors>
+<item historyLabel="x_xmas_android.java" index="0">
+<position info="not_deleted" x="320" y="0"/>
+</item>
+<item historyLabel="x_xmas_android.java" index="0">
+<position info="not_deleted" x="140" y="0"/>
+</item>
+<item historyLabel="AndroidManifest.xml" index="1">
+<position info="not_deleted" x="2335" y="0"/>
+</item>
+<item historyLabel="X_mas_androidActivity.java" index="2">
+<position info="not_deleted" x="140" y="0"/>
+</item>
+<item historyLabel="X_mas_androidActivity.java" index="2">
+<position info="not_deleted" x="327" y="0"/>
+</item>
+<item historyLabel="X_mas_androidActivity.java" index="2">
+<position info="not_deleted" x="327" y="0"/>
+</item>
+<item historyLabel="AndroidManifest.xml" index="1">
+<position info="not_deleted" x="946" y="0"/>
+</item>
+<item historyLabel="AndroidManifest.xml" index="1">
+<position info="not_deleted" x="0" y="38"/>
+</item>
+<item historyLabel="AndroidManifest.xml" index="1">
+<position/>
+</item>
+<item historyLabel="AndroidManifest.xml" index="1">
+<position/>
+</item>
+<item historyLabel="AndroidManifest.xml" index="1">
+<position info="not_deleted" x="2336" y="0"/>
+</item>
+<item historyLabel="AndroidManifest.xml" index="1">
+<position info="not_deleted" x="619" y="0"/>
+</item>
+<item historyLabel="AndroidManifest.xml" index="1">
+<position info="not_deleted" x="950" y="0"/>
+</item>
+<item historyLabel="additem.html" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="main.js" index="4">
+<position info="not_deleted" x="0" y="0"/>
+>>>>>>> origin/gh-pages
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -290,15 +435,30 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<<<<<<< HEAD
+=======
+<trimItem IMemento.internal.id="bottom"/>
+>>>>>>> origin/gh-pages
 </trimArea>
 </trimLayout>
 </window>
 <mruList>
+<<<<<<< HEAD
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="AndroidManifest.xml" tooltip="XmasA/AndroidManifest.xml">
 <persistable path="/XmasA/AndroidManifest.xml"/>
 </file>
 <file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="XmasAndroid.java" tooltip="All I Want for X-Mas Android/src/com/fullsail/testApp/XmasAndroid.java">
 <persistable path="/All I Want for X-Mas Android/src/com/fullsail/testApp/XmasAndroid.java"/>
+=======
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="main.js" tooltip="X-Mas Android/assets/www/js/main.js">
+<persistable path="/X-Mas Android/assets/www/js/main.js"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="additem.html" tooltip="X-Mas Android/assets/www/additem.html">
+<persistable path="/X-Mas Android/assets/www/additem.html"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="AndroidManifest.xml" tooltip="X-Mas Android/AndroidManifest.xml">
+<persistable path="/X-Mas Android/AndroidManifest.xml"/>
+>>>>>>> origin/gh-pages
 </file>
 </mruList>
 </workbench>

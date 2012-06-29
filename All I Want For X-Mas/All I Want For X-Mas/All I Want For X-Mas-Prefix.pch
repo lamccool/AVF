@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'All I Want For X-Mas' target in the 'All I Want For X-Mas' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif

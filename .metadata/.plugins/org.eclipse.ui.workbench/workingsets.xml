@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <workingSetManager>
-<<<<<<< HEAD
-<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1340871212912_0" label="Window Working Set" name="Aggregate for window 1340871212911"/>
-=======
-<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1340919034211_0" label="Window Working Set" name="Aggregate for window 1340919034209"/>
->>>>>>> origin/gh-pages
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1341886239034_0" label="Window Working Set" name="Aggregate for window 1341886239031"/>
 </workingSetManager>
